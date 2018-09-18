@@ -9,7 +9,7 @@ public class PojoClass {
 	
 	
 	public PojoClass() {
-		
+		//dbcjhsdbc
 	}
 
 	public PojoClass(int eid, String name, String address, int contact_num) {
