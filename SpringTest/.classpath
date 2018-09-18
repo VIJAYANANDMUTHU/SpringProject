@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/VIVEK/Downloads/org.springframework.beans-3.1.0.RELEASE.jar/org.springframework.beans-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VIVEK/Downloads/org.springframework.context.jar/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VIVEK/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VIVEK/Downloads/org.springframework.core-3.1.0.M2.jar~/org.springframework.core-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VIVEK/Downloads/org.springframework.asm-3.1.0.M1.jar/org.springframework.asm-3.1.0.M1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
